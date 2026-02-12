@@ -1,0 +1,2 @@
+# sonar-code-quality-
+public
